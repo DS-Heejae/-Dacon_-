@@ -11,18 +11,18 @@
  - 모든 데이터는 시간 순으로 정렬 되어 있으며 10분 단위 데이터 입니다.
  - 예측 대상(target variable)은 Y18입니다.
 
-  1) train.csv
+ - train.csv
     - 30일 간의 기상청 데이터 (X00~X39) 및 센서데이터 (Y00~Y17)
     - 이후 3일 간의 기상청 데이터 (X00~X39) 및 센서데이터 (Y18)
 
-  2) test.csv
+ - test.csv
     - train.csv 기간 이후 80일 간의 기상청 데이터 (X00~X39)
 
-  3) sample_submission.csv
+ - sample_submission.csv
     - 제출 양식 예시
 
 
-3. 데이터셋 상세 소개
+3. 데이터 상세 소개(공란: 결측치 -> 예측 필요)
 ![dataset](https://user-images.githubusercontent.com/60166667/78556804-97540380-784a-11ea-86c4-73d3f129e186.png)
 
 
