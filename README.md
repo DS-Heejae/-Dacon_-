@@ -49,7 +49,7 @@
 
 - (2) test data(이후 80일): 전체 X 변수를 활용하여 Y18 예측
   
-## 3 test 데이터의 Y18 예측 위해 시도해본 모델
+## 3. test 데이터의 Y18 예측 위해 시도해본 모델
   - 성능 향상을 위해 머신러닝 기법 적용: LGBM, RandomForestRegressor
     - RandomForestRegressor의 성능이 가장 좋았음. (MSE: 3.94)
     
