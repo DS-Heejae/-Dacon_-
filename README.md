@@ -41,8 +41,11 @@
     - Y00~Y17의 이후 3일치 먼저 예측: OLS 활용, KFold 교차검증(성능: 대부분 95%이상)
     - 33일치의 값이 채워진 Y00~Y17로 Y18의 이전 30일 예측: 
       - 스케일링, OLS : accuracy_score와 mse가 좋게 나왔으나, 이를 활용해 구한 전체 데이터로 예측 모델을 만들 경우 성능이 좋지 못함
+      <img width="866" alt="스크린샷 2020-05-08 오후 6 08 24" src="https://user-images.githubusercontent.com/60166667/81390776-fb722c00-9156-11ea-9b20-a0bc6b903354.png">
+      
       - 정규화(Lasso, Ridge, Elastic Net), KFold 교차 검증: Lasso가 가장 좋은 성능을 가짐
-     <img width="798" alt="스크린샷 2020-05-08 오후 5 51 45" src="https://user-images.githubusercontent.com/60166667/81389338-a1706700-9154-11ea-85b2-002a6ae06ec8.png">
+   <img width="861" alt="스크린샷 2020-05-08 오후 6 09 21" src="https://user-images.githubusercontent.com/60166667/81390824-0cbb3880-9157-11ea-8069-160b28316f6a.png">
+   
 
 - (2) test data(이후 80일): 전체 X 변수를 활용하여 Y18 예측
   
