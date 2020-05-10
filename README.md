@@ -40,10 +40,10 @@
  - b. 결측치(위의 이미지에서 공란) 예측
     - Y00~Y17의 이후 3일치 먼저 예측: OLS 활용, KFold 교차검증(성능: 대부분 95%이상)
     - 33일치의 값이 채워진 Y00~Y17로 Y18의 이전 30일 예측: 
-      - 스케일링, OLS : accuracy_score와 mse가 좋게 나왔으나, 이를 활용해 구한 전체 데이터로 예측 모델을 만들 경우 성능이 좋지 못함
+      - 스케일링, OLS : accuracy_score와 mse가 좋게 나왔으나, 이를 활용해 구한 전체 데이터로 예측 모델을 만들 경우 성능이 좋지 못함.
       <img width="866" alt="스크린샷 2020-05-08 오후 6 08 24" src="https://user-images.githubusercontent.com/60166667/81390776-fb722c00-9156-11ea-9b20-a0bc6b903354.png">
       
-      - 정규화(Lasso, Ridge, Elastic Net), KFold 교차 검증: Lasso가 가장 좋은 성능을 가짐
+      - 정규화(Lasso, Ridge, Elastic Net), KFold 교차 검증: Lasso가 가장 좋은 성능을 가짐.
    <img width="861" alt="스크린샷 2020-05-08 오후 6 09 21" src="https://user-images.githubusercontent.com/60166667/81390824-0cbb3880-9157-11ea-8069-160b28316f6a.png">
    
 
@@ -53,7 +53,7 @@
   - 성능 향상을 위해 머신러닝 기법 적용: LGBM, RandomForestRegressor
     - RandomForestRegressor의 성능이 가장 좋았음. (MSE: 3.94)
     
- - 각 변수 그룹 별 평균 값으로 OLS 적용 MSE : 4.60(잘못된 방법) 
+ - 각 변수 그룹 별 평균 값으로 OLS 적용 MSE : 4.60(좋지 못한 방법) 
  - OLS 모델: MSE 5.46
  - Lasso 모델: MSE 6.75
  - OLS + Lasso + OLS 모델: MSE 3.99
