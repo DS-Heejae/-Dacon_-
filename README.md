@@ -26,7 +26,7 @@
  - MSE 3.94, 상위 11%(총 378명 참가) 
 
 ## 4. 프로젝트 결과물
-[회귀분석프로젝트.pdf](https://github.com/DS-Heejae/linear-regression-project-dacon/files/4707069/default.pdf)
+ - [회귀분석프로젝트.pdf](https://github.com/DS-Heejae/linear-regression-project-dacon/files/4707313/default.pdf
 
 
 ## 5. 분석에 필요한 패키지
