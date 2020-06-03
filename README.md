@@ -1,6 +1,7 @@
 # 회귀분석 프로젝트
 
 > Dacon - AI프렌즈 시즌1 온도 추정 경진 대회
+팀원: 양준, 오진경, 윤예슬, 
 ![dacon](https://user-images.githubusercontent.com/60166667/78556644-4ba15a00-784a-11ea-939a-e5862cb13644.png)
 
 
