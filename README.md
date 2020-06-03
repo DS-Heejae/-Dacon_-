@@ -26,8 +26,7 @@
  - MSE 3.94, 상위 11%(총 378명 참가) 
 
 ## 4. 프로젝트 결과물
-- [회귀분석프로젝트](https://github.com/DS-Heejae/linear-regression-project-dacon/files/4707313/default.pdf)
-
+- [glowpick_final.pdf](https://github.com/DS-Heejae/linear-regression-project-dacon/files/4723786/glowpick_final.pdf)
 
 ## 5. 분석에 필요한 패키지
  - requirements.txt
