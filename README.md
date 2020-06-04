@@ -23,11 +23,15 @@
 ## 2.결과
  - MSE 3.94, 상위 11%(총 378명 참가) 
 
-## 3. 프로젝트 결과물
+## 3. 데이터 전처리 & 분석 과정
+<img width="880" alt="스크린샷 2020-06-04 오후 10 12 06" src="https://user-images.githubusercontent.com/60166667/83760886-88ee6080-a6b0-11ea-9ac8-b3f4d2c8d6aa.png">
+<img width="883" alt="스크린샷 2020-06-04 오후 10 12 13" src="https://user-images.githubusercontent.com/60166667/83760887-8a1f8d80-a6b0-11ea-839e-b7b81f0b13c7.png">
+
+
+## 4.프로젝트 결과물
 
 [회귀분석프로젝트.pdf](https://github.com/DS-Heejae/linear-regression-project-dacon/files/4725256/default.pdf)
 
 
-
-## 4. 분석에 필요한 패키지
+## 5. 분석에 필요한 패키지
  - requirements.txt
