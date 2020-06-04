@@ -20,8 +20,9 @@
     - train.csv 기간 이후 80일 간의 기상청 데이터 (X00 - X39)
 
 ## 2. 데이터 전처리 & 분석 과정
-<img width="849" alt="스크린샷 2020-06-04 오후 11 52 56" src="https://user-images.githubusercontent.com/60166667/83772674-9874a600-a6be-11ea-8475-f4026fc2d81b.png">
+
 <img width="851" alt="스크린샷 2020-06-04 오후 11 52 51" src="https://user-images.githubusercontent.com/60166667/83772705-a0344a80-a6be-11ea-9db3-f1701dd30b91.png">
+<img width="849" alt="스크린샷 2020-06-04 오후 11 52 56" src="https://user-images.githubusercontent.com/60166667/83772674-9874a600-a6be-11ea-8475-f4026fc2d81b.png">
 
 ## 3.결과
  - MSE 3.94, 상위 11%(총 378명 참가) 
