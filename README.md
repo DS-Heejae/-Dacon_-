@@ -24,9 +24,8 @@
  - MSE 3.94, 상위 11%(총 378명 참가) 
 
 ## 3. 데이터 전처리 & 분석 과정
-<img width="880" alt="스크린샷 2020-06-04 오후 10 12 06" src="https://user-images.githubusercontent.com/60166667/83760886-88ee6080-a6b0-11ea-9ac8-b3f4d2c8d6aa.png">
-<img width="883" alt="스크린샷 2020-06-04 오후 10 12 13" src="https://user-images.githubusercontent.com/60166667/83760887-8a1f8d80-a6b0-11ea-839e-b7b81f0b13c7.png">
-
+<img width="1156" alt="스크린샷 2020-06-04 오후 11 00 41" src="https://user-images.githubusercontent.com/60166667/83766362-4aa86f80-a6b7-11ea-946b-5cfa0a9ad951.png">
+<img width="1165" alt="스크린샷 2020-06-04 오후 11 00 48" src="https://user-images.githubusercontent.com/60166667/83766365-4bd99c80-a6b7-11ea-8aa9-a76cb5934a47.png">
 
 ## 4.프로젝트 결과물
 
