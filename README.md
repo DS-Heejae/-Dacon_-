@@ -29,7 +29,8 @@
  
 ## 4.프로젝트 결과물
 
-[회귀분석프로젝트.pdf](https://github.com/DS-Heejae/linear-regression-project-dacon/files/4725256/default.pdf)
+[회귀분석프로젝트.pdf](https://github.com/DS-Heejae/linear-regression-project-dacon/files/4730849/default.pdf)
+
 
 
 ## 5. 분석에 필요한 패키지
