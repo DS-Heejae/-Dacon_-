@@ -19,14 +19,14 @@
  - test.csv
     - train.csv 기간 이후 80일 간의 기상청 데이터 (X00 - X39)
 
+## 2. 데이터 전처리 & 분석 과정
+<img width="849" alt="스크린샷 2020-06-04 오후 11 52 56" src="https://user-images.githubusercontent.com/60166667/83772674-9874a600-a6be-11ea-8475-f4026fc2d81b.png">
+<img width="851" alt="스크린샷 2020-06-04 오후 11 52 51" src="https://user-images.githubusercontent.com/60166667/83772705-a0344a80-a6be-11ea-9db3-f1701dd30b91.png">
 
-## 2.결과
+## 3.결과
  - MSE 3.94, 상위 11%(총 378명 참가) 
-
-## 3. 데이터 전처리 & 분석 과정
-<img width="1156" alt="스크린샷 2020-06-04 오후 11 00 41" src="https://user-images.githubusercontent.com/60166667/83766362-4aa86f80-a6b7-11ea-946b-5cfa0a9ad951.png">
-<img width="1165" alt="스크린샷 2020-06-04 오후 11 00 48" src="https://user-images.githubusercontent.com/60166667/83766365-4bd99c80-a6b7-11ea-8aa9-a76cb5934a47.png">
-
+ 
+ 
 ## 4.프로젝트 결과물
 
 [회귀분석프로젝트.pdf](https://github.com/DS-Heejae/linear-regression-project-dacon/files/4725256/default.pdf)
